@@ -1,8 +1,7 @@
 {
+  "url": "https://github.com/camdencheek/tree-sitter-go-mod",
   "semver": false,
-  "min_version": null,
-  "lang": "gomod",
+  "parser_version": "2e886870578eeba1927a2dc4bd2e2b3f598c5f9a",
   "location": null,
-  "max_version": null,
-  "url": "https://github.com/camdencheek/tree-sitter-go-mod"
+  "lang": "gomod"
 }
